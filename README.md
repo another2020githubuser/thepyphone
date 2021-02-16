@@ -5,7 +5,10 @@ Simple communication with minimal dependencies.  **All you need is a Raspberry 3
 
 My vision is to re-think and de-centralize communication, from both a hardware and software perspective.  Security and privacy are really important to me, but the current trends are toward closed source, proprietary devices, less private platforms etc.  The PyPhone is in many ways a 21st century home phone.
 
-Start with a 21st century home phone with a touch screen.  Make the home phone the always on hub of your communications.  Use a mobile phone when necessary.  
+Start with a 21st century home phone with a touch screen.  Make the home phone the always on hub of your communications.  Use a mobile phone when necessary.  This simp
+
+Use the PyPhone as a home phone.  Only give your number to your closest friends.
+Use the PyPhone as a dedicated 2FA phone.  
 
 Works fine over Wi-Fi.  Tested in multiple contintents including North and South America and Europe.  Works fine. The phone appeared to be a US phone.
 
