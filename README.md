@@ -5,3 +5,5 @@ Simple communication with minimal dependencies.  All you need is a Raspberry 3B+
 
 No Apple ID, No Google Account, No SIM, nothing else required.
 
+The code is Python 3 (with a bunch of packages from PyPy) and GTK.  
+
