@@ -5,7 +5,10 @@ Simple communication with minimal dependencies.  **All you need is a Raspberry 3
 
 I view this project as a start towards a more open communications infrastructure. 
 
-Also works fine over Wi-Fi.  Tested in multiple contintents including South America and Europe.  It worked fine. The phone appeared to be a US phone.
+Works fine over Wi-Fi.  Tested in multiple contintents including North and South America and Europe.  Works fine. The phone appeared to be a US phone.
 
-Not encrypted.
-The code is Python 3 (with a bunch of packages from PyPy) and GTK.  
+Not encrypted.  Everything you say or type will end up transmitted plain text over the public Internet.  Don't use this for illegal stuff.
+
+The code is Python 3 (with a bunch of packages from PyPy) and GTK.  Built backwards, I built this for myself first, so no barely working MVP here.  This is  stable code that I use as my daily driver.
+
+
