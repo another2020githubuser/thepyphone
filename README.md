@@ -3,7 +3,9 @@ Voice and SMS/MMS on a Raspberry Pi 3B+
 
 Simple communication with minimal dependencies.  **All you need is a Raspberry 3B+ with touchscreen, a Logitech USB Headset H390 and an ethernet cable.**  No Apple ID, No Google Account, No SIM, nothing else required.
 
-I view this project as a start towards a more open communications infrastructure. 
+I view this project as a start towards a more open communications infrastructure. This is open source software, running on fairly open source hardware.
+
+The home phone is not dead, it just needs to be extended to the 21st century.  
 
 Works fine over Wi-Fi.  Tested in multiple contintents including North and South America and Europe.  Works fine. The phone appeared to be a US phone.
 
