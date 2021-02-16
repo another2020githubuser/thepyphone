@@ -1,13 +1,11 @@
 # The PyPhone
 Voice and SMS/MMS on a Raspberry Pi 3B+
 
-Simple communication with minimal dependencies.  **All you need is a Raspberry 3B+ with touchscreen, a Logitech USB H390 Headset an ethernet cable and a PyPhone account**  No Apple ID, No Google Account, No SIM, nothing else required.
+Simple communication with minimal dependencies.  **All you need is a Raspberry 3B+ with touchscreen, a Logitech USB H390 Headset an ethernet cable and a PyPhone account.**  No Apple ID, No Google Account, No SIM, nothing else required.  The PyPhone is open source software, using open protocols (https and sip) and running on fairly open hardware.  
 
-I view this project as a start towards a more open communications infrastructure. The PyPhone is open source software, using open protocols (https and sip) and running on fairly open hardware.  
+My vision is to re-think and de-centralize communication, from both a hardware and software perspective.  Security and privacy are really important to me, but the current trends are toward closed source, proprietary devices, less private platforms etc.  The PyPhone is in many ways a 21st century home phone.
 
-My vision is to re-think and de-centralize communication, from both a hardware and software perspective.  Security and privacy are really important to me, but the current trends are toward less secure, less private platforms etc.
-
-The home phone is not dead, it just needs to be extended to the 21st century.  
+Start with a 21st century home phone with a touch screen.  Make the home phone the always on hub of your communications.  Use a mobile phone when necessary.  
 
 Works fine over Wi-Fi.  Tested in multiple contintents including North and South America and Europe.  Works fine. The phone appeared to be a US phone.
 
