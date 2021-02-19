@@ -12,18 +12,15 @@ The code is Python 3 (with a bunch of packages from PyPy) and GTK.
 
 ## Use Cases
 Dedicated home phone.  Only give your number to your closest friends.
+
 Dedicated 2FA phone. No SIM jacking.
 
 ## Network
 The PyPhone works over Ethernet or Wi-Fi.  
 Tested in multiple contintents including North and South America and Europe.  Works fine. The phone appeared to be a US phone.
 
-
-`
-
 ## Get an Account
 https://www.thepyphone.com/getaccount
-
 
 ## Extra
 If you like your cell phone, you can keep your cell phone
