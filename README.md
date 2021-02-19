@@ -9,6 +9,9 @@ pip3 install thepyphone
 ## Get an Account
 https://www.thepyphone.com/getaccount
 
+## Start Communicating
+Login and start calling
+
 ## Demos
 Task | Link
 ---------
@@ -20,7 +23,7 @@ Receive a voice call | www.youtube.com
 Dedicated home phone.  Only give your number to your closest friends.
 Dedicated 2FA phone. No SIM jacking.
 ## Network
-The PyPhone works over Ethernet or Wi-Fi.  I prefer Ethernet, if you go this route than you can power off the Wi-Fi radio.
+The PyPhone works over Ethernet or Wi-Fi.  I prefer Ethernet, if you use Ethernet then you can power off the Wi-Fi radio.
 ## Code Status
 Production stable.  I use this as my daily driver.  The PyPhone has been tested and confirmed to work fine in multiple contintents including North and South America and Europe. I used it to do to my US business while I was abroad..
 ## Extra
