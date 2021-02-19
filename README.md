@@ -6,16 +6,23 @@ Simple communication with minimal dependencies.  The PyPhone is open source soft
 ```python
 pip3 install thepyphone
 ```
+## Get an Account
+https://www.thepyphone.com/getaccount
+
+## Demos
+Task|Link
+---------
+Start up|www.youtube.com
+Make a voice call|www.youtube.com
+Send an SMS|www.youtube.com
+Receive a voice call|www.youtube.com
 ## Use Cases
 Dedicated home phone.  Only give your number to your closest friends.
 Dedicated 2FA phone. No SIM jacking.
 ## Network
-The PyPhone works over Ethernet or Wi-Fi.  
-Tested in multiple contintents including North and South America and Europe.  Works fine. The phone appeared to be a US phone.
-
-## Get an Account
-https://www.thepyphone.com/getaccount
-
+The PyPhone works over Ethernet or Wi-Fi.  I prefer Ethernet, if you go this route than you can power off the Wi-Fi radio.
+## Code Status
+Production stable.  I use this as my daily driver.  The PyPhone has been tested and confirmed to work fine in multiple contintents including North and South America and Europe. I used it to do to my US business while I was abroad..
 ## Extra
 If you like your cell phone, you can keep your cell phone
 Built backwards, I built this for myself first, so no barely working MVP here.  This is  stable code that I use as my daily driver.
