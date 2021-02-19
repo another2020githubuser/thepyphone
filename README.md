@@ -17,6 +17,6 @@ Not encrypted.  Everything you say or type will end up transmitted plain text ov
 The code is Python 3 (with a bunch of packages from PyPy) and GTK.  Built backwards, I built this for myself first, so no barely working MVP here.  This is  stable code that I use as my daily driver.
 
 ## Installation
-pip3 install thepyphone
+```pip3 install thepyphone```
 
 
