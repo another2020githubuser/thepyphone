@@ -7,11 +7,16 @@ Got a Raspberry Pi 3B+ with an official Touch Screen?  Turn it into a powerful c
 ```python
 pip3 install thepyphone
 ```
-## Get an Account
+## Configuration
+Get an account
 https://www.thepyphone.com/getaccount
 
-## Start Communicating
-Login and start calling
+Start the PyPhone
+```
+cd pyphone
+./pi_run_pyphone
+```
+Enter your credentials and start calling
 
 ## Demos
 Task | Link
