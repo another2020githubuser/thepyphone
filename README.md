@@ -3,7 +3,7 @@
 Simple communication with minimal dependencies.  The PyPhone is open source software, using open protocols (https and sip) and running on (fairly) open hardware. No Apple ID, No Google Account, No SIM.  
 
 ## Installation
-```python pip3 install thepyphone``
+```python pip3 install thepyphone```
 
 ## The Code
 The code is Python 3 (with a bunch of packages from PyPy) and GTK.  
