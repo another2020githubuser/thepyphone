@@ -10,12 +10,12 @@ pip3 install thepyphone
 https://www.thepyphone.com/getaccount
 
 ## Demos
-Task|Link
+Task | Link
 ---------
-Start up|www.youtube.com
-Make a voice call|www.youtube.com
-Send an SMS|www.youtube.com
-Receive a voice call|www.youtube.com
+Start up | www.youtube.com
+Make a voice call | www.youtube.com
+Send an SMS | www.youtube.com
+Receive a voice call | www.youtube.com
 ## Use Cases
 Dedicated home phone.  Only give your number to your closest friends.
 Dedicated 2FA phone. No SIM jacking.
