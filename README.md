@@ -19,4 +19,7 @@ The code is Python 3 (with a bunch of packages from PyPy) and GTK.  Built backwa
 ## Installation
 ```pip3 install thepyphone```
 
+## Get an Account
+https://www.thepyphone.com/getaccount
+
 
