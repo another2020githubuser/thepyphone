@@ -1,6 +1,6 @@
 # The PyPhone - Voice and SMS/MMS on a Raspberry Pi 3B+
 
-Simple communication with minimal dependencies.  The PyPhone is open source software, using open protocols (https and sip) and running on (fairly) open hardware. No Apple ID, No Google Account, No SIM.  
+Effective communication with minimal dependencies.  The PyPhone is open source software, using open protocols (https and sip) and running on (fairly) open hardware. No Apple ID, No Google Account, No SIM, no AdSense, no Apps, no Ads.
 
 ## Installation
 ```python
