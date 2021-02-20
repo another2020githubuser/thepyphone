@@ -31,7 +31,9 @@ Dedicated 2FA phone. No SIM jacking.
 ## Network
 The PyPhone works over Ethernet or Wi-Fi.  I prefer Ethernet, if you use Ethernet then you can power off the Wi-Fi radio.
 ## Code Status
-Production stable.  I use this as my daily driver.  The PyPhone has been tested and confirmed to work fine in multiple contintents including North and South America and Europe. I used it to do to my US business while I was abroad..
+Production stable.  I use this as my daily driver and I have for over a year.  I reboot the phone every few months.
+## International Usage
+The PyPhone has been tested and confirmed to work in multiple contintents including North and South America and Europe. I used it to do to my US business while I was abroad.
 ## Extra
 If you like your cell phone, you can keep your cell phone
 Built backwards, I built this for myself first, so no barely working MVP here.  This is  stable code that I use as my daily driver.
