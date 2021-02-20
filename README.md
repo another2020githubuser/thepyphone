@@ -26,9 +26,10 @@ Start up | www.youtube.com
 Make a voice call | www.youtube.com
 Send an SMS | www.youtube.com
 Receive a voice call | www.youtube.com
-## Use Cases
+## Possible Use Cases
 Dedicated home phone.  Only give your number to your closest friends.
 Dedicated 2FA phone. No SIM jacking.
+Dedicated business line.  Compartmentalize your personal and business personas.
 ## Network
 The PyPhone works over Ethernet or Wi-Fi.  I prefer Ethernet, if you use Ethernet then you can power off the Wi-Fi radio.
 ## Code Status
