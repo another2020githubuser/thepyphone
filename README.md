@@ -7,8 +7,6 @@ Effective communication with minimal dependencies.  The PyPhone is open source s
 * Logitech USB H390 Headset
 * Ethernet cable
 
-Turn it into a powerful communication tool in under 5 minutes!
-
 ## Installation
 ```python
 pip3 install thepyphone
