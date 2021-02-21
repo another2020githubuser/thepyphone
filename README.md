@@ -2,7 +2,9 @@
 
 Effective communication with minimal dependencies.  The PyPhone is open source software, using open protocols (https and sip) and running on (fairly) open hardware. No Apple ID, No Google Account, No SIM, no AdSense, no Apps, no Ads.
 
-Got a Raspberry Pi 3B+ with an official Touch Screen?  Turn it into a powerful communication tool in under 5 minutes!
+## Hardware Requirements
+* Raspberry Pi 3B+ with an official Touch Screen
+* Turn it into a powerful communication tool in under 5 minutes!
 
 ## Installation
 ```python
