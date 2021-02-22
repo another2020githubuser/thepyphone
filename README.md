@@ -14,7 +14,7 @@ Software professionals with Linux experience.  Bash and Python 3 experience requ
 ## Hardware Requirements
 * Raspberry Pi 3B+ with an official 7" Touch Screen
 * Logitech USB H390 Headset
-* Ethernet cable
+* Ethernet cable (Wi-Fi works too)
 
 ## Installation
 ```python
