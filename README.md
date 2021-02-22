@@ -2,6 +2,9 @@
 
 Effective communication with minimal dependencies.  The PyPhone is open source software, using open protocols (https and sip) and running on (fairly) open hardware. No Apple ID, No Google Account, No SIM, no AdSense, no Apps, no Ads, no GPS, no Sensors.
 
+## Motivation
+I am a solo founder, a 25 year veteran of the software industry and a passionate digital privacy advocate.  I do not like the choices available for voice/sms.  So I built my own, for myself.
+
 ## Hardware Requirements
 * Raspberry Pi 3B+ with an official 7" Touch Screen
 * Logitech USB H390 Headset
