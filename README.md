@@ -32,7 +32,7 @@ Send an SMS | www.youtube.com
 Receive a voice call | www.youtube.com
 ## Common Use Cases
 * Dedicated home phone.  Only give your number to your closest friends.
-* Dedicated 2FA phone. No SIM jacking.
+* Dedicated 2FA phone. No SIM, so SIM jacking is not possible.
 * Dedicated business line.  Compartmentalize your personal and business personas.
 ## Network
 The PyPhone works over Ethernet or Wi-Fi.  I prefer Ethernet, if you use Ethernet then you can power off the Wi-Fi radio.
