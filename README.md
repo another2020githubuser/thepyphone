@@ -12,8 +12,9 @@ Effective communication with minimal dependencies.  The PyPhone is open source s
 pip3 install thepyphone
 ```
 ## Configuration
-Get an account
-https://www.thepyphone.com/getaccount
+Get a profile
+https://www.thepyphone.com/get_profile
+
 
 Start the PyPhone
 ```
@@ -29,7 +30,7 @@ Start up | www.youtube.com
 Make a voice call | www.youtube.com
 Send an SMS | www.youtube.com
 Receive a voice call | www.youtube.com
-## Possible Use Cases
+## Common Use Cases
 Dedicated home phone.  Only give your number to your closest friends.
 Dedicated 2FA phone. No SIM jacking.
 Dedicated business line.  Compartmentalize your personal and business personas.
