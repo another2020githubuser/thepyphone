@@ -33,9 +33,9 @@ cd pyphone
 Enter your credentials and start calling
 
 ## Demos
-| Task | Link
----------
-| Start up | www.youtube.com
+| Task | Link |
+| --- | --- |
+| Start up | www.youtube.com |
 Make a voice call | www.youtube.com
 Send an SMS | www.youtube.com
 Receive a voice call | www.youtube.com
