@@ -38,6 +38,7 @@ Enter your credentials and start calling
 | Start up | www.youtube.com |
 | Make a voice call | www.youtube.com |
 | Send an SMS | www.youtube.com |
+| Send an MMS | www.youtube.com |
 | Receive a voice call | www.youtube.com |
 | Receive an SMS/MMS | www.youtube.com |
 ## Common Use Cases
