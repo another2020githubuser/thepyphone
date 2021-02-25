@@ -26,6 +26,8 @@ After successful account creation, you will get a link to download the thepyphon
 * $ pip3 install thepyphone.tar.gz --user
 * $ cd pyphone
 *  ./pi_run_pyphone.sh
+### Add Contacts (Optional)
+Export your contacts in VCF format. Name the file contacts.vcf and copy it to /home/pi/pyphone/venv/lib/python3.7/site-packages/gtkapplication/data/contacts.vcf  
 ## Demos of the PyPhone
 | Task | Link |
 | --- | --- |
