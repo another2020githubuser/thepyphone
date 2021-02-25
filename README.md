@@ -36,9 +36,10 @@ Enter your credentials and start calling
 | Task | Link |
 | --- | --- |
 | Start up | www.youtube.com |
-Make a voice call | www.youtube.com
-Send an SMS | www.youtube.com
-Receive a voice call | www.youtube.com
+| Make a voice call | www.youtube.com |
+| Send an SMS | www.youtube.com |
+| Receive a voice call | www.youtube.com |
+| Receive an SMS/MMS | www.youtube.com |
 ## Common Use Cases
 * Dedicated home phone.  Only give your number to your closest friends.
 * Dedicated 2FA phone. No SIM, so SIM jacking is not possible.
