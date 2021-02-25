@@ -17,7 +17,7 @@ Software professionals with Raspberry Pi and Linux experience.  Bash and Python 
 * Ethernet cable (Wi-Fi works too)
 
 ## Get Calling
-### Get an account
+### Get an Account
 Free, no credit card required
 https://myphone2020-1.weebly.com/account-request.html
 After successful account creation, you will get a link to download the thepyphone.tar.gz which contains the fully configured PyPhone software.  Copy the installer into the home directory on the pi (/home/pi)
