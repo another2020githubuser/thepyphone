@@ -17,6 +17,7 @@ Software professionals with Raspberry Pi and Linux experience.  Bash and Python 
 * Ethernet cable (Wi-Fi works too)
 
 ## Get Calling
+The PyPhone requires a network connected Raspberry Pi 3B+.  Ethernet or Wi-Fi is fine.
 ### Get the Installer
 Free, no credit card required
 https://myphone2020-1.weebly.com/account-request.html
@@ -42,8 +43,6 @@ Export your contacts in VCF format. Name the file contacts.vcf and copy it to /h
 * Dedicated home phone.  Only give your number to your closest friends.
 * Dedicated 2FA phone. No SIM, so SIM jacking is not possible.
 * Dedicated business line.  Compartmentalize your personal and business personas.
-## Network
-The PyPhone works over Ethernet or Wi-Fi.  I prefer Ethernet, if you use Ethernet then you can power off the Wi-Fi radio.
 ## VNC Friendly
 The PyPhone works great over VNC.  I typically connect from my Desktop to the PyPhone.  A side benefit of this is I can type my SMS on my Desktop keyboard.  I can type far faster on a full size keyboard than on a mobile phone keyboard.
 ## Code Status
