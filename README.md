@@ -20,14 +20,13 @@ Software professionals with Raspberry Pi and Linux experience.  Bash and Python 
 ### Get an account
 Free, no credit card required
 https://myphone2020-1.weebly.com/account-request.html
-After successful account creation, you will get a link to download the thepyphone.tar.gz which contains the fully configured PyPhone software.
-
-Install The PyPhone
+After successful account creation, you will get a link to download the thepyphone.tar.gz which contains the fully configured PyPhone software.  Copy the installer into the home directory on the pi (/home/pi)
+### Install The PyPhone
 * $ cd ~
 * $ pip3 install thepyphone.tar.gz --user
 * $ cd pyphone
 *  ./pi_run_pyphone.sh
-## Demos
+## Demos of the PyPhone
 | Task | Link |
 | --- | --- |
 | Start up | www.youtube.com |
