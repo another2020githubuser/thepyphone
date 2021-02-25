@@ -47,9 +47,11 @@ Enter your credentials and start calling
 * Dedicated business line.  Compartmentalize your personal and business personas.
 ## Network
 The PyPhone works over Ethernet or Wi-Fi.  I prefer Ethernet, if you use Ethernet then you can power off the Wi-Fi radio.
+## VNC Friendly
+The PyPhone works great over VNC.  I typically connect from my Desktop to the PyPhone.  A side benefit of this is I can type my SMS on my Desktop keyboard.  I can type far faster on a full size keyboard than on a mobile phone keyboard.
 ## Code Status
 Production stable.  I use this as my daily driver and I have for over a year.  I reboot the phone every few months.
 ## International Usage
-The PyPhone has been tested and confirmed to work in multiple contintents including North and South America and Europe. I used it to do to my US business while I was abroad.
+The PyPhone has been tested and confirmed to work in multiple contintents including North and South America and Europe. I used it to do to my US business while I was abroad.  The PyPhone appears to be physically located in the United States no matter where you are located in the world.
 ## The Code
 The code is Python 3 (with a bunch of packages from PyPy) and GTK. 
