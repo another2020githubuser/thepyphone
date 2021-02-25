@@ -21,8 +21,8 @@ Software professionals with Raspberry Pi and Linux experience.  Bash and Python 
 pip3 install thepyphone
 ```
 ## Configuration
-Get a profile
-https://www.thepyphone.com/get_profile
+Get a login
+https://myphone2020-1.weebly.com/contact.html
 
 
 Start the PyPhone
