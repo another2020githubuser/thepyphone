@@ -16,22 +16,17 @@ Software professionals with Raspberry Pi and Linux experience.  Bash and Python 
 * Logitech USB H390 Headset
 * Ethernet cable (Wi-Fi works too)
 
-## Installation
-```python
-pip3 install thepyphone
-```
-## Configuration
-Get a login
-https://myphone2020-1.weebly.com/contact.html
+## Get Calling
+### Get an account
+Free, no credit card required
+https://myphone2020-1.weebly.com/account-request.html
+After successful account creation, you will get a link to download the thepyphone.tar.gz which contains the fully configured PyPhone software.
 
-
-Start the PyPhone
-```
-cd pyphone
-./pi_run_pyphone
-```
-Enter your credentials and start calling
-
+Install The PyPhone
+$ cd ~
+$ pip3 install thepyphone.tar.gz --user
+$ cd pyphone
+$ ./pi_run_pyphone.sh
 ## Demos
 | Task | Link |
 | --- | --- |
