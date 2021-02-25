@@ -29,6 +29,7 @@ After successful account creation, you will get a link to download the thepyphon
 ## Demos of the PyPhone
 | Task | Link |
 | --- | --- |
+| Installation | www.youtube.com |
 | Start up | www.youtube.com |
 | Make a voice call | www.youtube.com |
 | Send an SMS | www.youtube.com |
