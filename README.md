@@ -23,10 +23,10 @@ https://myphone2020-1.weebly.com/account-request.html
 After successful account creation, you will get a link to download the thepyphone.tar.gz which contains the fully configured PyPhone software.
 
 Install The PyPhone
-$ cd ~
-$ pip3 install thepyphone.tar.gz --user
-$ cd pyphone
-$ ./pi_run_pyphone.sh
+* $ cd ~
+* $ pip3 install thepyphone.tar.gz --user
+* $ cd pyphone
+*  ./pi_run_pyphone.sh
 ## Demos
 | Task | Link |
 | --- | --- |
