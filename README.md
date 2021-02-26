@@ -17,7 +17,7 @@ Software professionals with Raspberry Pi and Linux experience.  Bash and Python 
 * Ethernet cable (Wi-Fi works too)
 
 ## Get Calling
-Prerequisite: a fully updated, network connected Raspberry Pi 3B+.  Ethernet or Wi-Fi is fine.
+Prerequisite: a fully updated, Internet connected Raspberry Pi 3B+.  Ethernet or Wi-Fi is fine.
 ### Get the Installer
 Free, no credit card required
 https://myphone2020-1.weebly.com/account-request.html <br />
