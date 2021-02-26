@@ -20,13 +20,13 @@ Software professionals with Raspberry Pi and Linux experience.  Bash and Python 
 Prerequisite: a fully updated, network connected Raspberry Pi 3B+.  Ethernet or Wi-Fi is fine.
 ### Get the Installer
 Free, no credit card required
-https://myphone2020-1.weebly.com/account-request.html
+https://myphone2020-1.weebly.com/account-request.html <br />
 After successful account creation, you will get a link to download the thepyphone.tar.gz which contains the fully configured PyPhone software.  Copy the installer into the home directory on the pi (/home/pi)
 ### Install The PyPhone
-* $ cd ~
-* $ pip3 install thepyphone.tar.gz --user
-* $ cd pyphone
-*  ./pi_run_pyphone.sh
+cd ~ <br />
+$ pip3 install thepyphone.tar.gz --user  <br />
+$ cd pyphone  <br />
+./pi_run_pyphone.sh <br />
 ### Add Contacts (Optional)
 Export your contacts in VCF format. Name the file contacts.vcf and copy it to /home/pi/pyphone/venv/lib/python3.7/site-packages/gtkapplication/data/contacts.vcf  
 ## Demos of the PyPhone
