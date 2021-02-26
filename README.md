@@ -19,7 +19,7 @@ Software professionals with Raspberry Pi and Linux experience.  Bash and Python 
 ## Get Calling
 Prerequisite: a fully updated, Internet connected Raspberry Pi 3B+.  Ethernet or Wi-Fi is fine.
 ### Get the Installer
-Sign up for an account <a href="https://myphone2020-1.weebly.com/account-request.html">here</a>. It's free, no credit card required
+Sign up for an account <a href="https://myphone2020-1.weebly.com/account-request.html">here</a>. It's a simple form, it's free, and there is no credit card required.  Right now, the form just sends me an email, the actual account setup process is manual.  I'll automate the setup process as demand grows.
  <br />
 After successful account creation, you will get a link to download the thepyphone.tar.gz which contains the fully configured PyPhone software.  Copy the installer into the home directory on the pi (/home/pi)
 ### Install The PyPhone
