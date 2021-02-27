@@ -9,7 +9,7 @@ I do not like the concessions required today for voice/sms.  So I built my own, 
 I am a solo founder, a 25 year veteran of the software industry and a passionate digital privacy advocate.
 
 ## Intended Audience
-Software professionals with Raspberry Pi and Linux experience.  Bash and Python 3 experience required. 
+Ethical software professionals with Raspberry Pi, Linux, Bash and Python 3 experience. 
 
 ## Hardware Requirements
 * Raspberry Pi 3B+ with an official 7" Touch Screen
