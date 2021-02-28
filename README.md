@@ -36,7 +36,7 @@ Export your contacts in VCF format. Name the file contacts.vcf and copy it to /h
 | Installation | www.youtube.com |
 | Start up | www.youtube.com |
 | Make a voice call | www.youtube.com |
-| Send an SMS | www.youtube.com |
+| Send an SMS | https://youtu.be/gVFxhu5gdkY |
 | Send an MMS | www.youtube.com |
 | Receive a voice call | www.youtube.com |
 | Receive an SMS/MMS | www.youtube.com |
