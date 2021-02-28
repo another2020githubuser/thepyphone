@@ -20,7 +20,7 @@ I don't want this to be used by scammers or other bad people for bad things.
 ## Get Calling
 Prerequisite: a fully updated, Internet connected Raspberry Pi 3B+.  Ethernet or Wi-Fi is fine.
 ### Get the Installer
-Sign up for an account <a href="https://myphone2020-1.weebly.com/account-request.html">here</a>. It's a simple form, it's free, and there is no credit card required.  The actual account setup process is manual so please be patient.
+Sign up for an account <a href="https://myphone2020-1.weebly.com/account-request.html">here</a>. It's a simple form, it's free, and there is no credit card required.  I'm a solo founder, and the actual account setup process is manual so please be patient.
  <br />
 After successful account creation, you will get a link to download the thepyphone.tar.gz which contains the fully configured PyPhone software.  Copy the installer into the home directory on the pi (/home/pi)
 ### Install The PyPhone
