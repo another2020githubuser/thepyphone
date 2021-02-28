@@ -9,7 +9,8 @@ I do not like the concessions required today for voice/sms.  So I built my own, 
 I am a solo founder, a 25 year veteran of the software industry and a passionate digital privacy advocate.
 
 ## Intended Audience
-Ethical software professionals with Raspberry Pi, Linux, Bash and Python 3 experience. 
+Ethical software professionals with Raspberry Pi, Linux, Bash and Python 3 experience. <br />
+I don't want this to be used by scammers or other bad people for bad things.
 
 ## Hardware Requirements
 * Raspberry Pi 3B+ with an official 7" Touch Screen
