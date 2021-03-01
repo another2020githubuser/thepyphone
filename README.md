@@ -31,7 +31,7 @@ $ cd pyphone  <br />
 ### Add Contacts (Optional)
 Export your contacts in VCF format. Name the file contacts.vcf and copy it to /home/pi/pyphone/venv/lib/python3.7/site-packages/gtkapplication/data/.  The contacts.vcf file will be parsed at program start up.  I use Evolution to manage my contacts and exporting to VCF works flawlessly.
 ## Demos of the PyPhone
-NOTE:  no audio (yet) on any of these videos
+NOTE:  no audio (yet) on any of these videos.  Microphone broke.
 | Task | Link |
 | --- | --- |
 | Installation | www.youtube.com |
