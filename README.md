@@ -36,7 +36,7 @@ NOTE:  no audio (yet) on any of these videos.  Microphone broke.
 | --- | --- |
 | Installation | www.youtube.com |
 | Start up | https://youtu.be/7inSDbOpfns |
-| Make a voice call | www.youtube.com |
+| Make a voice call | https://youtu.be/IpL6BD8mGHA |
 | Send an SMS | https://youtu.be/gVFxhu5gdkY |
 | Send an MMS | www.youtube.com |
 | Receive a voice call | www.youtube.com |
