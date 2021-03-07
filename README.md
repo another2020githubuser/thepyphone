@@ -30,7 +30,7 @@ $ pip3 install thepyphone.tar.gz --user  <br />
 $ cd ~/pyphone  <br />
 ./pi_run_pyphone.sh <br />
 ## Demos of the PyPhone
-NOTE:  no audio (yet) on any of these videos.  Microphone broke.
+NOTE:  no audio (yet) on any of these videos.
 | Task | Link |
 | --- | --- |
 | Installation | www.youtube.com |
