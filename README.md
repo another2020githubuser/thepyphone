@@ -38,7 +38,7 @@ NOTE:  no audio (yet) on any of these videos.  Microphone broke.
 | Start up | https://youtu.be/7inSDbOpfns |
 | Make a voice call | https://youtu.be/IpL6BD8mGHA |
 | Send an SMS | https://youtu.be/gVFxhu5gdkY |
-| Send an MMS | www.youtube.com |
+| Send an MMS |  https://youtu.be/_ZHxHS4RqPo |
 | Receive a voice call | www.youtube.com |
 | Receive an SMS/MMS | www.youtube.com |
 ## Common Use Cases
