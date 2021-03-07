@@ -48,7 +48,7 @@ NOTE:  no audio (yet) on any of these videos.  Microphone broke.
 ## VNC Friendly
 The PyPhone works great over VNC.  I typically connect from my Ubuntu Desktop to the PyPhone.  A side benefit of this is I can type my SMS on my Desktop keyboard.  I can type far faster on a full size keyboard than on a mobile phone keyboard.
 ## Code Status
-Production stable.  I use this as my daily driver and I have for over a year.  I reboot the phone every few months.
+Production stable.  I use this as my daily driver and I have for over a year.
 ## International Usage
 The PyPhone has been tested and confirmed to work in multiple contintents including North and South America and Europe. I used it to do to my US business while I was abroad.  The PyPhone appears to be physically located in the United States no matter where you are located in the world.
 ## The Code
