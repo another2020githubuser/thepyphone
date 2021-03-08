@@ -40,7 +40,7 @@ NOTE:  no audio (yet) on any of these videos.
 | Send an MMS |  https://youtu.be/_ZHxHS4RqPo |
 | Receive a voice call | www.youtube.com |
 | Receive an SMS/MMS | www.youtube.com |
-## Common Use Cases
+## Potential Use Cases
 * Dedicated home phone.  Only give your number to your closest friends.
 * Dedicated 2FA phone. No SIM, so SIM jacking is not possible.
 * Dedicated business line.  Compartmentalize your personal and business personas.
