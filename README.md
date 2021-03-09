@@ -38,7 +38,7 @@ NOTE:  no audio (yet) on any of these videos.
 | Make a voice call | https://youtu.be/IpL6BD8mGHA |
 | Send an SMS | https://youtu.be/gVFxhu5gdkY |
 | Send an MMS |  https://youtu.be/_ZHxHS4RqPo |
-| Receive a voice call | www.youtube.com |
+| Receive a voice call | https://youtu.be/nz82aCpR8q4 |
 | Receive an SMS/MMS | www.youtube.com |
 ## Potential Use Cases
 * Dedicated home phone.  Only give your number to your closest friends.
