@@ -30,8 +30,10 @@ $ ./pi_install_pyphone  <br />
 $ cd ~/pyphone  <br />
 ./pi_run_pyphone.sh <br />
 ## Demos of the PyPhone
-I am a color blind engineer with minimal gui/video skills.  Please be kind :) <br />
-NOTE:  no audio (yet) on any of these videos.
+Notes <br />
+* I am a color blind engineer with minimal gui/video skills.  Please be kind :)
+* No audio (yet) on any of these videos.
+* All these demos use live phone numbers, so I blanked out the phone number so I don't dox myself
 | Task | Link |
 | --- | --- |
 | Installation | www.youtube.com |
