@@ -25,12 +25,12 @@ Sign up for an account <a href="https://myphone2020-1.weebly.com/account-request
 After successful account creation, you will get a link to download the thepyphone.tar.gz which contains the fully configured PyPhone software.  Copy the installer into the home directory on the pi (/home/pi)
 ### Install The PyPhone
 cd ~ <br />
-$ pip3 install thepyphone.tar.gz --user  <br />
+$ ./pi_install_pyphone  <br />
 ### Run The PyPhone
 $ cd ~/pyphone  <br />
 ./pi_run_pyphone.sh <br />
 ## Demos of the PyPhone
-I am a color blind engineer with little video skills.  Please be kind :)
+I am a color blind engineer with minimal gui/video skills.  Please be kind :) <br />
 NOTE:  no audio (yet) on any of these videos.
 | Task | Link |
 | --- | --- |
