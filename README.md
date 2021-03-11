@@ -30,6 +30,7 @@ $ pip3 install thepyphone.tar.gz --user  <br />
 $ cd ~/pyphone  <br />
 ./pi_run_pyphone.sh <br />
 ## Demos of the PyPhone
+I am a color blind engineer with little video skills.  Please be kind :)
 NOTE:  no audio (yet) on any of these videos.
 | Task | Link |
 | --- | --- |
@@ -39,7 +40,7 @@ NOTE:  no audio (yet) on any of these videos.
 | Send an SMS | https://youtu.be/gVFxhu5gdkY |
 | Send an MMS |  https://youtu.be/_ZHxHS4RqPo |
 | Receive a voice call | https://youtu.be/nz82aCpR8q4 |
-| Receive an SMS/MMS | www.youtube.com |
+| Receive an SMS/MMS | https://youtu.be/YIqjVNbaYEE |
 ## Potential Use Cases
 * Dedicated home phone.  Only give your number to your closest friends.
 * Dedicated 2FA phone. No SIM, so SIM jacking is not possible.
