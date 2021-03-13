@@ -37,8 +37,7 @@ Notes <br />
 
 | Task | Link |
 | --- | --- |
-| Installation | www.youtube.com |
-| Start up | https://youtu.be/7inSDbOpfns |
+| Installation and Start Up | https://youtu.be/5rWnr3jHFWQ |
 | Make a voice call | https://youtu.be/IpL6BD8mGHA |
 | Send an SMS | https://youtu.be/gVFxhu5gdkY |
 | Send an MMS |  https://youtu.be/_ZHxHS4RqPo |
