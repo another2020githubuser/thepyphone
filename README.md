@@ -31,7 +31,7 @@ $ cd ~/pyphone  <br />
 ./pi_run_pyphone.sh <br />
 ## Demos of the PyPhone
 Notes <br />
-* I am a color blind engineer with minimal gui/video skills.  Please be kind :)
+* I am a color blind engineer with minimal gui/video skills.  I build stuff that works, but I'm not great at making it pretty.  Please be kind :)
 * No audio (yet) on any of these videos.
 * All these demos use live phone numbers, so I blanked out the phone number so I don't dox myself.
 
