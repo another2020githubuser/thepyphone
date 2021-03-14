@@ -14,7 +14,7 @@ Ethical software professionals with Raspberry Pi, Linux, Bash and Python 3 exper
 I don't want this to be used by scammers or other bad people for shady things.
 
 ## Hardware Requirements
-* Raspberry Pi 3B+ with an official 7" Touch Screen
+* <a href="https://www.amazon.com/ELEMENT-Element14-Raspberry-Pi-Motherboard/dp/B07P4LSDYV/">Raspberry Pi 3B+</a> with an official 7" Touch Screen
 * <a href="https://www.amazon.com/Logitech-Headset-H390-Noise-Cancelling/dp/B000UXZQ42">Logitech USB H390 Headset</a>
 * Ethernet cable (Wi-Fi works too)
 
