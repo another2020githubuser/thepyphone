@@ -18,7 +18,6 @@ I don't want this to be used by scammers or other bad people for shady things.
 * <a href="https://www.amazon.com/Logitech-Headset-H390-Noise-Cancelling/dp/B000UXZQ42">Logitech USB H390 Headset</a>
 * Ethernet cable (Wi-Fi works too)
 Total hardware cost, roughly $125
-
 ## Demos of the PyPhone
 Notes <br />
 * I am a color blind engineer with minimal gui/video skills.  I build rock solid stuff that works forever, but I'm not great at making it pretty.  Please be kind :)
