@@ -17,7 +17,6 @@ I don't want this to be used by scammers or other bad people for shady things.
 * <a href="https://www.amazon.com/ELEMENT-Element14-Raspberry-Pi-Motherboard/dp/B07P4LSDYV/">Raspberry Pi 3B+</a> with an <a href="https://www.amazon.com/Raspberry-Pi-7-Touchscreen-Display/dp/B0153R2A9I/">official 7" Touch Screen</a>
 * <a href="https://www.amazon.com/Logitech-Headset-H390-Noise-Cancelling/dp/B000UXZQ42">Logitech USB H390 Headset</a>
 * Ethernet cable (Wi-Fi works too)
-<br />
 Total hardware cost, roughly $125
 
 ## Demos of the PyPhone
