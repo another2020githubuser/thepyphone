@@ -33,7 +33,7 @@ $ cd ~/pyphone  <br />
 Notes <br />
 * I am a color blind engineer with minimal gui/video skills.  I build rock solid stuff that works forever, but I'm not great at making it pretty.  Please be kind :)
 * No audio (yet) on any of these videos.
-* All these demos use live phone numbers, so I blanked out the phone number so I don't dox myself.
+* All these demos use live phone numbers, so I blanked out the phone numbers so I don't dox myself.
 
 | Task | Link |
 | --- | --- |
