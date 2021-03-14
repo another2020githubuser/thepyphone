@@ -15,7 +15,7 @@ I don't want this to be used by scammers or other bad people for shady things.
 
 ## Hardware Requirements
 * Raspberry Pi 3B+ with an official 7" Touch Screen
-* Logitech USB H390 Headset
+* Logitech USB H390 Headset (https://www.amazon.com/Logitech-Headset-H390-Noise-Cancelling/dp/B000UXZQ42)
 * Ethernet cable (Wi-Fi works too)
 
 ## Get Calling
