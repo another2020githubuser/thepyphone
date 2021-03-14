@@ -7,7 +7,7 @@ I do not like the concessions required today just for voice/sms.  So I built my 
 
 ## About Me
 I am a solo founder, a 25 year veteran of the software industry and a passionate digital privacy advocate. <br />
-I am a full time Linux user.  I do not use Microsoft or Apple products.
+I use Linux exclusively.  I do not use Windows or OSX.
 
 ## Intended Audience
 Ethical software professionals with Raspberry Pi, Linux, Bash and Python 3 experience. <br />
