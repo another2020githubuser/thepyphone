@@ -40,7 +40,7 @@ Notes <br />
 * Dedicated business line.  Compartmentalize your personal and business personas.
 ## VNC  & SSH Friendly
 The PyPhone works great over VNC.  I typically connect from my Ubuntu Desktop to the PyPhone.  A side benefit of this is I can type my SMS on my Desktop keyboard.  I can type far faster on a full size keyboard than on a mobile phone keyboard. <br />
-I can also SSH into the PyPhone while it is running if there is a problem and I need to look at files or logs.
+I can also SSH into the PyPhone while it is running if I need to do something to the file system or tail some logs.
 ## Code Status
 Production stable.  I use this as my daily driver and I have for over a year.
 ## International Usage
