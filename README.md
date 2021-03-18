@@ -10,8 +10,8 @@ I am a solo founder, a 25 year veteran of the software industry and a passionate
 I use Linux exclusively.  I do not use Windows or OSX.
 
 ## Intended Audience
-Ethical software professionals with Raspberry Pi, Linux, Bash and Python 3 experience. <br />
-I don't want this to be used by scammers or other bad people for shady things.
+I want this to be used by ethical software professionals with Raspberry Pi, Linux, Bash and Python 3 experience. <br />
+I don't want this to be used by scammers or other jerks for shady things.
 
 ## Hardware Requirements
 * <a href="https://www.amazon.com/ELEMENT-Element14-Raspberry-Pi-Motherboard/dp/B07P4LSDYV/">Raspberry Pi 3B+</a> with an <a href="https://www.amazon.com/Raspberry-Pi-7-Touchscreen-Display/dp/B0153R2A9I/">official 7" Touch Screen</a>
