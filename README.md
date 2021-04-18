@@ -3,7 +3,7 @@
 Effective communication with minimal dependencies.  The PyPhone is open source software, using open protocols (https and sip) and running on (fairly) open hardware. No Apple ID, No Google Account, No SIM, no AdSense, no Apps, no Ads, no GPS, no location tracking.
 
 ## Motivation
-I do not like the expense, identification required, and consent to tracking required today just for voice/sms/mms.  So I built my own communication tool, from scratch, for myself.  Now I want to share this tool with everyone.
+I do not like identification required, the consent to tracking required today just for voice/sms/mms.  So I built my own communication tool, from scratch, for myself.  Now I want to share this tool with everyone.
 
 ## About Me
 * I am a solo founder, a 25 year veteran of the software industry and a passionate digital privacy advocate. <br />
@@ -13,7 +13,7 @@ I do not like the expense, identification required, and consent to tracking requ
 ## Intended Audience
 * I want this to be used by ethical people for day to day communication. <br />
 * I do not want this to be used by scammers or other jerks for shady things. <br />
-* You should be reasonably experienced with the Raspberry Pi 3, Linux, Bash and Python 3.
+* To use this you should be reasonably experienced with the Raspberry Pi 3, Linux, Bash and Python 3.
 
 ## Hardware Requirements
 * <a href="https://www.amazon.com/ELEMENT-Element14-Raspberry-Pi-Motherboard/dp/B07P4LSDYV/">Raspberry Pi 3B+</a> with an <a href="https://www.amazon.com/Raspberry-Pi-7-Touchscreen-Display/dp/B0153R2A9I/">official 7" Touch Screen</a>
