@@ -23,7 +23,7 @@ I do not like identification required, the consent to tracking and the hardware 
 Total hardware cost, roughly $125
 ## Demos of the PyPhone
 Notes <br />
-* I am a color blind engineer with limited gui/video skills.  I build rock solid stuff that works forever, but I'm not great at making it pretty.  Please be kind :)
+* I am a color blind engineer with limited gui/video skills.  I focus on reliability, but I'm not great at making things pretty.  Please be kind :)
 * No audio (yet) on any of these videos.
 * All these demos use live phone numbers, so I blanked out the phone numbers so I don't dox myself.
 
