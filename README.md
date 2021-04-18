@@ -6,9 +6,9 @@ Effective communication with minimal dependencies.  The PyPhone is open source s
 I do not like the expense, identification and consent to tracking required today just for voice/sms/mms.  So I built my own communication tool, from scratch, for myself.  Now I want to share this tool with everyone.
 
 ## About Me
-I am a solo founder, a 25 year veteran of the software industry and a passionate digital privacy advocate. <br />
-I use Linux exclusively.  I do not use Windows or OSX. <br />
-I do not own a mobile phone.
+* I am a solo founder, a 25 year veteran of the software industry and a passionate digital privacy advocate. <br />
+* I use Linux exclusively.  I do not use Windows or OSX. <br />
+* I do not own a mobile phone.
 
 ## Intended Audience
 I want this to be used by ethical people for day to day communication. <br />
