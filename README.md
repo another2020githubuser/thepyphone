@@ -3,7 +3,7 @@
 Effective communication with minimal dependencies.  The PyPhone is open source software, using open protocols (https and sip) and running on (fairly) open hardware. No Apple ID, No Google Account, No SIM, no AdSense, no Apps, no Ads, no GPS, no location tracking.
 
 ## Motivation
-I do not like identification required, the consent to tracking required today just for voice/sms/mms.  So I built my own communication tool, from scratch, for myself.  Now I want to share this tool with everyone.
+I do not like identification required, the consent to tracking and the hardware cost just for voice/sms/mms.  So I built my own communication tool, from scratch, for myself.  Now I want to share this tool with everyone.
 
 ## About Me
 * I am a solo founder, a 25 year veteran of the software industry and a passionate digital privacy advocate. <br />
