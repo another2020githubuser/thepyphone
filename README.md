@@ -12,7 +12,7 @@ I do not own a mobile phone.
 
 ## Intended Audience
 I want this to be used by ethical people for day to day communication. <br />
-I do not want this to be used by scammers or other jerks for shady things. <br / >
+I do not want this to be used by scammers or other jerks for shady things. <br />
 You should be reasonably experienced with the Raspberry Pi 3, Linux, Bash and Python 3.
 
 ## Hardware Requirements
