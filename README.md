@@ -13,7 +13,7 @@ I do not like identification required, the consent to tracking and the hardware 
 ## Intended Audience
 * I want this to be used by ethical people for day to day communication. <br />
 * I do not want this to be used by scammers or other jerks for shady things. <br />
-* To use this you should be reasonably experienced with the Raspberry Pi 3, Linux, Bash and Python 3.
+* To use the PyPhone you should be reasonably experienced with the Raspberry Pi 3, Linux, Bash and Python 3.
 
 ## Hardware Requirements
 * <a href="https://www.amazon.com/ELEMENT-Element14-Raspberry-Pi-Motherboard/dp/B07P4LSDYV/">Raspberry Pi 3B+</a> with an <a href="https://www.amazon.com/Raspberry-Pi-7-Touchscreen-Display/dp/B0153R2A9I/">official 7" Touch Screen</a>
