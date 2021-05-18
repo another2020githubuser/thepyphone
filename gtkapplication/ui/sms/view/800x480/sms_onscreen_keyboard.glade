@@ -1,0 +1,1552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated with glade 3.22.1 -->
+<interface>
+  <requires lib="gtk+" version="3.20"/>
+  <object class="GtkImage" id="toggle_keyboard_button_image">
+    <property name="visible">True</property>
+    <property name="can_focus">False</property>
+    <property name="icon_name">gnome-dev-keyboard</property>
+    <property name="icon_size">3</property>
+  </object>
+  <object class="GtkBox" id="keyboard_box">
+    <property name="visible">True</property>
+    <property name="can_focus">False</property>
+    <property name="orientation">vertical</property>
+    <child>
+      <object class="GtkNotebook" id="keyboard_notebook">
+        <property name="visible">True</property>
+        <property name="can_focus">True</property>
+        <property name="tab_pos">right</property>
+        <child>
+          <object class="GtkBox" id="lowercase_keyboard_box">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="orientation">vertical</property>
+            <property name="homogeneous">True</property>
+            <child>
+              <object class="GtkBox" id="box_lowercase_0">
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <property name="spacing">2</property>
+                <child>
+                  <object class="GtkButton" id="button28">
+                    <property name="label" translatable="yes">q</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">0</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button29">
+                    <property name="label" translatable="yes">w</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">1</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button30">
+                    <property name="label" translatable="yes">e</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">2</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button31">
+                    <property name="label" translatable="yes">r</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">3</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button32">
+                    <property name="label" translatable="yes">t</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">4</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button33">
+                    <property name="label" translatable="yes">y</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">5</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button34">
+                    <property name="label" translatable="yes">u</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">6</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button35">
+                    <property name="label" translatable="yes">i</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">7</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button36">
+                    <property name="label" translatable="yes">o</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">8</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button37">
+                    <property name="label" translatable="yes">p</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">9</property>
+                  </packing>
+                </child>
+              </object>
+              <packing>
+                <property name="expand">False</property>
+                <property name="fill">True</property>
+                <property name="position">0</property>
+              </packing>
+            </child>
+            <child>
+              <object class="GtkBox" id="box_lowercase_1">
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <property name="spacing">2</property>
+                <child>
+                  <object class="GtkButton" id="button38">
+                    <property name="label" translatable="yes">a</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">0</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button39">
+                    <property name="label" translatable="yes">s</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">1</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button40">
+                    <property name="label" translatable="yes">d</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">2</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button41">
+                    <property name="label" translatable="yes">f</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">3</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button42">
+                    <property name="label" translatable="yes">g</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">4</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button43">
+                    <property name="label" translatable="yes">h</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">5</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button44">
+                    <property name="label" translatable="yes">j</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">6</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button45">
+                    <property name="label" translatable="yes">k</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">7</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button46">
+                    <property name="label" translatable="yes">l</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">8</property>
+                  </packing>
+                </child>
+              </object>
+              <packing>
+                <property name="expand">False</property>
+                <property name="fill">True</property>
+                <property name="position">1</property>
+              </packing>
+            </child>
+            <child>
+              <object class="GtkBox" id="box_lowercase_2">
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <property name="spacing">2</property>
+                <child>
+                  <object class="GtkButton" id="shift_button">
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_shift_button_clicked" swapped="no"/>
+                    <child>
+                      <object class="GtkImage" id="image6">
+                        <property name="visible">True</property>
+                        <property name="can_focus">False</property>
+                        <property name="stock">gtk-goto-top</property>
+                        <property name="icon_size">3</property>
+                      </object>
+                    </child>
+                  </object>
+                  <packing>
+                    <property name="expand">False</property>
+                    <property name="fill">True</property>
+                    <property name="position">0</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button47">
+                    <property name="label" translatable="yes">z</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">1</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button48">
+                    <property name="label" translatable="yes">x</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">2</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button49">
+                    <property name="label" translatable="yes">c</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">3</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button50">
+                    <property name="label" translatable="yes">v</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">4</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button51">
+                    <property name="label" translatable="yes">b</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">5</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button52">
+                    <property name="label" translatable="yes">n</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">6</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button53">
+                    <property name="label" translatable="yes">m</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">7</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button_backspace1">
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_backspace_clicked" swapped="no"/>
+                    <child>
+                      <object class="GtkImage" id="image3">
+                        <property name="visible">True</property>
+                        <property name="can_focus">False</property>
+                        <property name="stock">gtk-go-back</property>
+                      </object>
+                    </child>
+                  </object>
+                  <packing>
+                    <property name="expand">False</property>
+                    <property name="fill">True</property>
+                    <property name="position">8</property>
+                  </packing>
+                </child>
+              </object>
+              <packing>
+                <property name="expand">False</property>
+                <property name="fill">True</property>
+                <property name="position">2</property>
+              </packing>
+            </child>
+          </object>
+        </child>
+        <child type="tab">
+          <object class="GtkLabel" id="lowercase_tab_notebook">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="label" translatable="yes">abc</property>
+          </object>
+          <packing>
+            <property name="tab_fill">False</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkBox" id="numbers_keyboard_box">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="orientation">vertical</property>
+            <property name="homogeneous">True</property>
+            <child>
+              <object class="GtkBox" id="box_uppercase_0">
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <property name="spacing">2</property>
+                <child>
+                  <object class="GtkButton" id="button1">
+                    <property name="label" translatable="yes">1</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">0</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button2">
+                    <property name="label" translatable="yes">2</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">1</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button3">
+                    <property name="label" translatable="yes">3</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">2</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button4">
+                    <property name="label" translatable="yes">4</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">3</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button5">
+                    <property name="label" translatable="yes">5</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">4</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button6">
+                    <property name="label" translatable="yes">6</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">5</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button7">
+                    <property name="label" translatable="yes">7</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">6</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button8">
+                    <property name="label" translatable="yes">8</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">7</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button9">
+                    <property name="label" translatable="yes">9</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">8</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button10">
+                    <property name="label" translatable="yes">0</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">9</property>
+                  </packing>
+                </child>
+              </object>
+              <packing>
+                <property name="expand">False</property>
+                <property name="fill">True</property>
+                <property name="position">0</property>
+              </packing>
+            </child>
+            <child>
+              <object class="GtkBox" id="box_uppercase_1">
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <property name="spacing">2</property>
+                <child>
+                  <object class="GtkButton" id="button11">
+                    <property name="label" translatable="yes">-</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">0</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button12">
+                    <property name="label" translatable="yes">/</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">1</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button13">
+                    <property name="label" translatable="yes">:</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">2</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button14">
+                    <property name="label" translatable="yes">;</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">3</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button15">
+                    <property name="label" translatable="yes">(</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">4</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button16">
+                    <property name="label" translatable="yes">)</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">5</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button17">
+                    <property name="label" translatable="yes">$</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">6</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button18">
+                    <property name="label" translatable="yes">&amp;</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">7</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button19">
+                    <property name="label" translatable="yes">@</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">8</property>
+                  </packing>
+                </child>
+              </object>
+              <packing>
+                <property name="expand">False</property>
+                <property name="fill">True</property>
+                <property name="position">1</property>
+              </packing>
+            </child>
+            <child>
+              <object class="GtkBox" id="box_uppercase_2">
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <property name="spacing">2</property>
+                <child>
+                  <object class="GtkButton" id="button_shift">
+                    <property name="label" translatable="yes">"</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">0</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button20">
+                    <property name="label" translatable="yes">.</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">1</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button21">
+                    <property name="label" translatable="yes">,</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">2</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button22">
+                    <property name="label" translatable="yes">?</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">3</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button23">
+                    <property name="label" translatable="yes">!</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">4</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button24">
+                    <property name="label" translatable="yes">'</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">5</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button25">
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">6</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button26">
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">7</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button_backspace">
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_backspace_clicked" swapped="no"/>
+                    <child>
+                      <object class="GtkImage" id="image4">
+                        <property name="visible">True</property>
+                        <property name="can_focus">False</property>
+                        <property name="stock">gtk-go-back</property>
+                      </object>
+                    </child>
+                  </object>
+                  <packing>
+                    <property name="expand">False</property>
+                    <property name="fill">True</property>
+                    <property name="position">8</property>
+                  </packing>
+                </child>
+              </object>
+              <packing>
+                <property name="expand">False</property>
+                <property name="fill">True</property>
+                <property name="position">2</property>
+              </packing>
+            </child>
+          </object>
+          <packing>
+            <property name="position">1</property>
+          </packing>
+        </child>
+        <child type="tab">
+          <object class="GtkLabel" id="numbers_tab_notebook">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="label" translatable="yes">123</property>
+          </object>
+          <packing>
+            <property name="position">1</property>
+            <property name="tab_fill">False</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkBox" id="punctuation_keyboard_box">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="orientation">vertical</property>
+            <property name="homogeneous">True</property>
+            <child>
+              <object class="GtkBox" id="box_punctuation_0">
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <property name="spacing">2</property>
+                <child>
+                  <object class="GtkButton" id="button54">
+                    <property name="label" translatable="yes">[</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="receives_default">True</property>
+                    <property name="relief">none</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">0</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button55">
+                    <property name="label" translatable="yes">]</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">1</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button56">
+                    <property name="label" translatable="yes">{</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">2</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button57">
+                    <property name="label" translatable="yes">}</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">3</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button58">
+                    <property name="label" translatable="yes">#</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">4</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button59">
+                    <property name="label" translatable="yes">%</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">5</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button60">
+                    <property name="label" translatable="yes">^</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">6</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button61">
+                    <property name="label" translatable="yes">*</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">7</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button62">
+                    <property name="label" translatable="yes">+</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">8</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button63">
+                    <property name="label" translatable="yes">=</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">9</property>
+                  </packing>
+                </child>
+              </object>
+              <packing>
+                <property name="expand">False</property>
+                <property name="fill">True</property>
+                <property name="position">0</property>
+              </packing>
+            </child>
+            <child>
+              <object class="GtkBox" id="box_punctuation_1">
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <property name="spacing">2</property>
+                <child>
+                  <object class="GtkButton" id="button64">
+                    <property name="label" translatable="yes">_</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">0</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button65">
+                    <property name="label" translatable="yes">\</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">1</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button66">
+                    <property name="label" translatable="yes">|</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">2</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button67">
+                    <property name="label" translatable="yes">~</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">3</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button68">
+                    <property name="label" translatable="yes">&lt;</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">4</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button69">
+                    <property name="label" translatable="yes">&gt;</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">5</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button70">
+                    <property name="label" translatable="yes">$</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">6</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button71">
+                    <property name="label" translatable="yes">&amp;</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">7</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button72">
+                    <property name="label" translatable="yes">/</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">8</property>
+                  </packing>
+                </child>
+              </object>
+              <packing>
+                <property name="expand">False</property>
+                <property name="fill">True</property>
+                <property name="position">1</property>
+              </packing>
+            </child>
+            <child>
+              <object class="GtkBox" id="box_punctuation_2">
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <property name="spacing">2</property>
+                <child>
+                  <object class="GtkButton" id="button_80">
+                    <property name="label" translatable="yes">;</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">0</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button73">
+                    <property name="label" translatable="yes">.</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">1</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button74">
+                    <property name="label" translatable="yes">,</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">2</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button75">
+                    <property name="label" translatable="yes">?</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">3</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button76">
+                    <property name="label" translatable="yes">!</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">4</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button77">
+                    <property name="label" translatable="yes">'</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">5</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button78">
+                    <property name="label" translatable="yes">-</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">6</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button79">
+                    <property name="label" translatable="yes">@</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="focus_on_click">False</property>
+                    <property name="receives_default">True</property>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">7</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkButton" id="button_backspace2">
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_keyboard_button_backspace_clicked" swapped="no"/>
+                    <child>
+                      <object class="GtkImage" id="image5">
+                        <property name="visible">True</property>
+                        <property name="can_focus">False</property>
+                        <property name="stock">gtk-go-back</property>
+                      </object>
+                    </child>
+                  </object>
+                  <packing>
+                    <property name="expand">False</property>
+                    <property name="fill">True</property>
+                    <property name="position">8</property>
+                  </packing>
+                </child>
+              </object>
+              <packing>
+                <property name="expand">False</property>
+                <property name="fill">True</property>
+                <property name="position">2</property>
+              </packing>
+            </child>
+          </object>
+          <packing>
+            <property name="position">2</property>
+          </packing>
+        </child>
+        <child type="tab">
+          <object class="GtkLabel" id="punctuation_tab_notebook">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="label" translatable="yes">@$%</property>
+          </object>
+          <packing>
+            <property name="position">2</property>
+            <property name="tab_fill">False</property>
+          </packing>
+        </child>
+      </object>
+      <packing>
+        <property name="expand">False</property>
+        <property name="fill">False</property>
+        <property name="position">0</property>
+      </packing>
+    </child>
+    <child>
+      <object class="GtkBox" id="keyboard_bottom_row_box">
+        <property name="visible">True</property>
+        <property name="can_focus">False</property>
+        <property name="spacing">3</property>
+        <child>
+          <object class="GtkButton" id="keyboard_toggle_button">
+            <property name="visible">True</property>
+            <property name="can_focus">True</property>
+            <property name="receives_default">True</property>
+            <property name="tooltip_text" translatable="yes">Hide Keyboard</property>
+            <property name="image">toggle_keyboard_button_image</property>
+            <property name="always_show_image">True</property>
+            <signal name="clicked" handler="on_keyboard_toggle_button_clicked" swapped="no"/>
+          </object>
+          <packing>
+            <property name="expand">False</property>
+            <property name="fill">True</property>
+            <property name="position">0</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkButton" id="comma_button">
+            <property name="label" translatable="yes">,</property>
+            <property name="visible">True</property>
+            <property name="can_focus">True</property>
+            <property name="receives_default">True</property>
+            <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+          </object>
+          <packing>
+            <property name="expand">False</property>
+            <property name="fill">True</property>
+            <property name="position">1</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkButton" id="button_space">
+            <property name="label" translatable="yes">  space</property>
+            <property name="visible">True</property>
+            <property name="can_focus">True</property>
+            <property name="receives_default">True</property>
+            <property name="always_show_image">True</property>
+            <signal name="clicked" handler="on_keybooard_button_space_clicked" swapped="no"/>
+          </object>
+          <packing>
+            <property name="expand">True</property>
+            <property name="fill">True</property>
+            <property name="position">2</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkButton" id="period_button">
+            <property name="label" translatable="yes">.</property>
+            <property name="visible">True</property>
+            <property name="can_focus">True</property>
+            <property name="receives_default">True</property>
+            <signal name="clicked" handler="on_keyboard_button_clicked" swapped="no"/>
+          </object>
+          <packing>
+            <property name="expand">False</property>
+            <property name="fill">True</property>
+            <property name="position">3</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkButton" id="button_return">
+            <property name="visible">True</property>
+            <property name="can_focus">True</property>
+            <property name="receives_default">True</property>
+            <property name="always_show_image">True</property>
+            <signal name="clicked" handler="on_keyboard_button_return_clicked" swapped="no"/>
+            <child>
+              <object class="GtkImage" id="image7">
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <property name="stock">gtk-ok</property>
+                <property name="icon_size">3</property>
+              </object>
+            </child>
+          </object>
+          <packing>
+            <property name="expand">False</property>
+            <property name="fill">True</property>
+            <property name="position">4</property>
+          </packing>
+        </child>
+      </object>
+      <packing>
+        <property name="expand">False</property>
+        <property name="fill">False</property>
+        <property name="position">1</property>
+      </packing>
+    </child>
+  </object>
+</interface>

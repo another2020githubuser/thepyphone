@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated with glade 3.22.1 -->
+<interface>
+  <requires lib="gtk+" version="3.20"/>
+  <object class="GtkImage" id="redo-image">
+    <property name="visible">True</property>
+    <property name="can_focus">False</property>
+    <property name="icon_name">stock_redo</property>
+    <property name="icon_size">3</property>
+  </object>
+  <object class="GtkFrame" id="frame_sms_delivery_failure">
+    <property name="visible">True</property>
+    <property name="can_focus">False</property>
+    <property name="hexpand">True</property>
+    <property name="label_xalign">0.5</property>
+    <property name="shadow_type">none</property>
+    <child>
+      <object class="GtkAlignment">
+        <property name="visible">True</property>
+        <property name="can_focus">False</property>
+        <property name="left_padding">12</property>
+        <child>
+          <object class="GtkGrid">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <child>
+              <object class="GtkLabel" id="announcement_label">
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <property name="halign">start</property>
+                <property name="hexpand">True</property>
+                <property name="label" translatable="yes">SMS Delivery Failed with Error
+'Unknown destination handset'
+Error Code 30005
+El Pato
+cell (+12135551212)</property>
+              </object>
+              <packing>
+                <property name="left_attach">0</property>
+                <property name="top_attach">0</property>
+                <property name="height">2</property>
+              </packing>
+            </child>
+            <child>
+              <object class="GtkBox">
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <property name="halign">end</property>
+                <property name="hexpand">True</property>
+                <child>
+                  <object class="GtkButton" id="retry_button">
+                    <property name="label" translatable="yes">Retry</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="receives_default">True</property>
+                    <property name="image">redo-image</property>
+                    <property name="always_show_image">True</property>
+                    <signal name="clicked" handler="on_retry_button_clicked" swapped="no"/>
+                    <style>
+                      <class name="button_style_class"/>
+                    </style>
+                  </object>
+                  <packing>
+                    <property name="expand">False</property>
+                    <property name="fill">False</property>
+                    <property name="position">0</property>
+                  </packing>
+                </child>
+              </object>
+              <packing>
+                <property name="left_attach">1</property>
+                <property name="top_attach">0</property>
+              </packing>
+            </child>
+            <child>
+              <object class="GtkLabel" id="message_body_label">
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <property name="label" translatable="yes">Four Score and Seven Years Ago, blah blah blah</property>
+                <property name="wrap">True</property>
+                <property name="selectable">True</property>
+                <property name="ellipsize">end</property>
+                <style>
+                  <class name="sms_content_style_class"/>
+                </style>
+              </object>
+              <packing>
+                <property name="left_attach">1</property>
+                <property name="top_attach">1</property>
+              </packing>
+            </child>
+            <style>
+              <class name="frame_internal_positioning_grid"/>
+            </style>
+          </object>
+        </child>
+      </object>
+    </child>
+    <child type="label">
+      <object class="GtkBox">
+        <property name="visible">True</property>
+        <property name="can_focus">False</property>
+        <child>
+          <object class="GtkLabel" id="datetime_label">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="label" translatable="yes">datetime_label</property>
+          </object>
+          <packing>
+            <property name="expand">False</property>
+            <property name="fill">True</property>
+            <property name="position">0</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkEventBox">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <signal name="button-release-event" handler="on_close_button_click" object="frame_missed_call" swapped="no"/>
+            <child>
+              <object class="GtkImage">
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <property name="stock">gtk-close</property>
+                <style>
+                  <class name="timestamp-close-x-style-class"/>
+                </style>
+              </object>
+            </child>
+          </object>
+          <packing>
+            <property name="expand">False</property>
+            <property name="fill">True</property>
+            <property name="position">1</property>
+          </packing>
+        </child>
+        <style>
+          <class name="timestamp-style-class"/>
+        </style>
+      </object>
+    </child>
+    <style>
+      <class name="frame_style_class"/>
+      <class name="failure_colors_style_class"/>
+    </style>
+  </object>
+</interface>

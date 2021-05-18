@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated with glade 3.22.1 -->
+<interface>
+  <requires lib="gtk+" version="3.12"/>
+  <object class="GtkFrame" id="mms_frame">
+    <property name="visible">True</property>
+    <property name="can_focus">False</property>
+    <property name="label_xalign">0.019999999552965164</property>
+    <property name="label_yalign">0.99000000953674316</property>
+    <property name="shadow_type">none</property>
+    <child>
+      <object class="GtkEventBox">
+        <property name="visible">True</property>
+        <property name="can_focus">False</property>
+        <property name="visible_window">False</property>
+        <signal name="button-release-event" handler="on_mms_image_button_release_event" object="mms_image" swapped="no"/>
+        <child>
+          <object class="GtkImage" id="mms_image">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <style>
+              <class name="mms_image_style_class"/>
+            </style>
+          </object>
+        </child>
+      </object>
+    </child>
+    <child type="label">
+      <object class="GtkBox">
+        <property name="visible">True</property>
+        <property name="can_focus">False</property>
+        <child>
+          <object class="GtkLabel" id="timestamp_label">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="label" translatable="yes">Received on Sat Feb 22, 12:23 PM</property>
+            <style>
+              <class name="timestamp_label_style_class"/>
+            </style>
+          </object>
+          <packing>
+            <property name="expand">False</property>
+            <property name="fill">True</property>
+            <property name="position">0</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkBox">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <child>
+              <object class="GtkToolbar">
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <child>
+                  <object class="GtkToolButton" id="forward_image_toolbutton">
+                    <property name="visible">True</property>
+                    <property name="can_focus">False</property>
+                    <property name="label" translatable="yes">Forward</property>
+                    <property name="use_underline">True</property>
+                    <property name="stock_id">gtk-go-forward</property>
+                    <signal name="clicked" handler="on_forward_image_toolbutton_clicked" object="mms_image" swapped="no"/>
+                  </object>
+                  <packing>
+                    <property name="expand">False</property>
+                    <property name="homogeneous">True</property>
+                  </packing>
+                </child>
+              </object>
+              <packing>
+                <property name="expand">False</property>
+                <property name="fill">True</property>
+                <property name="position">0</property>
+              </packing>
+            </child>
+          </object>
+          <packing>
+            <property name="expand">False</property>
+            <property name="fill">True</property>
+            <property name="position">1</property>
+          </packing>
+        </child>
+      </object>
+    </child>
+    <style>
+      <class name="frame_style_class"/>
+    </style>
+  </object>
+</interface>

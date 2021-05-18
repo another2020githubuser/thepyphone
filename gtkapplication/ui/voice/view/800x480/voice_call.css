@@ -1,0 +1,55 @@
+
+
+#voice_window {
+background-color: pink;
+}
+
+.call_label_style_class {
+font-size: 18px;
+color: darkblue;
+margin-left: 10px;
+margin-right: 10px;
+}
+
+.dialog_button_style_class {
+font-size: 16px;
+color: blue;
+margin: 10px;
+border-radius: 10px;
+}
+
+#caller_id_label {
+font-weight: bold;
+}
+
+#active_call_count_label {
+font-size: 30px;
+color: darkblue;
+margin-top: 20px;
+}
+
+.call_frame_style_class {
+margin: 30px;
+padding: 10px;
+border-style: solid;
+border-width: 5px;
+border-color: blue;
+border-radius: 15px;
+background-color: red;
+min-width: 280px; /* hack to get around box border not resizing properly as call status label resizes */
+}
+
+#voicemail_count_label {
+font-size: 30px;
+color: darkblue;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+.voicemail_notebook_tab_style_class {
+font-size: 20px;
+font-weight: bold;
+color: darkblue;
+}
+
+

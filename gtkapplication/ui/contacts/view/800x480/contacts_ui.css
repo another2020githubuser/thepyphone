@@ -1,0 +1,47 @@
+
+#contact-frame-id {
+border-style: solid;
+border-top-width: 2px;
+border-color: blue;
+color: black;
+background-color: lightblue;
+}
+
+/* Contact Name */
+#contact-name-id {
+font-size: 25px;
+background-color: turquoise;
+margin-top: 5px;
+margin-bottom: 5px;
+}
+
+.voicemail-window-style-class {
+background-color: darkblue;
+}
+
+/* Contact Point Containing Box*/
+#contact-point-box-id {
+font-size: 20px;
+border-style: dotted;
+border-width: 2px;
+margin-right: 3px;
+margin-top: 10px;
+margin-bottom: 5px;
+margin-left: 3px;
+margin-bottom: 15px;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+#contact-point-description-id {
+margin-left: 10px;
+}
+
+#contact-point-container-id {
+margin-right: 10px;
+}
+
+.contact_point_button_style_class {
+margin: 5px;
+border-radius: 25px;
+}

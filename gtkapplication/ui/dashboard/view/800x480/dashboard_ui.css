@@ -1,0 +1,87 @@
+
+/* @import url('dashboard_ui_voicemail.css'); */
+
+.frame_style_class{
+margin-top : 10px;
+margin-left: 15px;
+margin-bottom: 10px;
+margin-right: 25px;
+border-style: solid;
+border-width: 5px;
+border-radius: 10px;
+font-size: 25px;
+}
+
+.failure_colors_style_class {
+background-color: red;
+color: white;
+}
+
+.voice_frame_colors_style_class {
+background-color: pink;
+color: black;
+border-color: black;
+}
+
+/* this is also reproduced in voicemail */
+.frame_internal_positioning_grid {
+margin-bottom: 15px;
+margin-top: 15px;
+}
+
+/* Spacing betweeen voicemail total and viewport
+Only important when scrolling. */
+.voicemail_scrolled_window_style_class {
+margin-top: 10px;
+}
+
+.sms_notification_style_class {
+font-size: 25px;
+}
+
+.dashboard_phone_number_style_class {
+font-size: 22px;
+font-weight: bold;
+color: blue;
+}
+
+.missed_call_notification_style_class {
+font-size: 25px;
+}
+
+.timestamp-style-class{
+border-color: green;
+border-style: solid;
+border-width: 3px;
+background-color: white;
+color: purple;
+padding-left: 9px;
+font-size: 25px;
+}
+
+/* sets color of new sms frame*/
+.sms_frame_colors_style_class {
+background-color: blue;
+color: lightblue;
+border-color: red;
+}
+
+.sms_content_style_class {
+margin-left: 15px;
+font-style: italic;
+font-size: 22px;
+color: white;
+}
+
+.timestamp-close-x-style-class {
+margin: 10px;
+}
+
+.button_style_class {
+color : red;
+margin: 10px;
+font-size: 25px;
+border-radius: 25px;
+padding-top: 10px;
+padding-bottom: 15px;
+}

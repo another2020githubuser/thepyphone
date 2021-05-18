@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated with glade 3.22.1 -->
+<interface>
+  <requires lib="gtk+" version="3.20"/>
+  <object class="GtkFrame" id="call_frame">
+    <property name="visible">True</property>
+    <property name="can_focus">False</property>
+    <property name="label_xalign">0.5</property>
+    <property name="shadow_type">none</property>
+    <child>
+      <object class="GtkAlignment">
+        <property name="visible">True</property>
+        <property name="can_focus">False</property>
+        <property name="left_padding">12</property>
+        <child>
+          <object class="GtkBox" id="voice_call_status_box">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="halign">center</property>
+            <property name="orientation">vertical</property>
+            <property name="homogeneous">True</property>
+            <child>
+              <object class="GtkLabel" id="call_status_label">
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <property name="label" translatable="yes">Call Status:  Not Started</property>
+                <style>
+                  <class name="call_label_style_class"/>
+                </style>
+              </object>
+              <packing>
+                <property name="expand">False</property>
+                <property name="fill">True</property>
+                <property name="position">0</property>
+              </packing>
+            </child>
+            <child>
+              <object class="GtkLabel" id="call_duration_label">
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <property name="label" translatable="yes">00:00:00</property>
+                <style>
+                  <class name="call_label_style_class"/>
+                </style>
+              </object>
+              <packing>
+                <property name="expand">False</property>
+                <property name="fill">True</property>
+                <property name="position">1</property>
+              </packing>
+            </child>
+            <child>
+              <object class="GtkBox">
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <child>
+                  <object class="GtkButton" id="hangup_button">
+                    <property name="label" translatable="yes">Hang Up</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="receives_default">True</property>
+                    <signal name="clicked" handler="on_hangup_button_clicked" swapped="no"/>
+                    <style>
+                      <class name="dialog_button_style_class"/>
+                    </style>
+                  </object>
+                  <packing>
+                    <property name="expand">True</property>
+                    <property name="fill">True</property>
+                    <property name="position">1</property>
+                  </packing>
+                </child>
+              </object>
+              <packing>
+                <property name="expand">False</property>
+                <property name="fill">True</property>
+                <property name="position">2</property>
+              </packing>
+            </child>
+          </object>
+        </child>
+      </object>
+    </child>
+    <child type="label">
+      <object class="GtkLabel" id="caller_id_label">
+        <property name="name">caller_id_label</property>
+        <property name="visible">True</property>
+        <property name="can_focus">False</property>
+        <property name="label" translatable="yes">Calling Foo</property>
+        <style>
+          <class name="call_label_style_class"/>
+        </style>
+      </object>
+    </child>
+    <style>
+      <class name="call_frame_style_class"/>
+    </style>
+  </object>
+</interface>

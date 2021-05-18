@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated with glade 3.22.1 -->
+<interface>
+  <requires lib="gtk+" version="3.12"/>
+  <object class="GtkFrame" id="sms_frame">
+    <property name="visible">True</property>
+    <property name="can_focus">False</property>
+    <property name="label_xalign">0.019999999552965164</property>
+    <property name="label_yalign">0.99000000953674316</property>
+    <property name="shadow_type">none</property>
+    <child>
+      <object class="GtkLabel" id="sms_contents_label">
+        <property name="visible">True</property>
+        <property name="can_focus">False</property>
+        <property name="label" translatable="yes">SMS Contents goes here
+and could be multi line</property>
+        <property name="wrap">True</property>
+        <property name="selectable">True</property>
+        <property name="max_width_chars">80</property>
+        <style>
+          <class name="sms_contents_label_style_class"/>
+        </style>
+      </object>
+    </child>
+    <child type="label">
+      <object class="GtkLabel" id="timestamp_label">
+        <property name="visible">True</property>
+        <property name="can_focus">False</property>
+        <property name="label" translatable="yes">Sat Feb 22, 11:17 AM</property>
+        <style>
+          <class name="timestamp_label_style_class"/>
+        </style>
+      </object>
+    </child>
+    <style>
+      <class name="frame_style_class"/>
+    </style>
+  </object>
+</interface>

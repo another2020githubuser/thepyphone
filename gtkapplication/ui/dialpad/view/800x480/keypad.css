@@ -1,0 +1,55 @@
+
+
+.dialog_button_style_class {
+font-size: 18px;
+color: blue;
+margin-top: 20px;
+margin-bottom: 20px;
+border-radius: 10px;
+
+}
+
+
+#keypad_grid {
+border-style: solid;
+border-width: 5px;
+border-color: orange;
+margin-bottom: 00px;
+border-radius: 15px;
+}
+
+.entry_style_class {
+font-size: 18px;
+margin: 20px
+}
+
+.dialpad_button_style_class {
+color: red;
+background-image: none;
+background-color: pink;
+margin-top: 10px;
+font-size: 18px;
+}
+
+.column_1_style_class {
+margin-left: 20px;
+}
+
+.column_2_style_class {
+margin-left: 20px;
+
+}
+
+.column_3_style_class {
+margin-left: 20px;
+}
+
+.column_4_style_class {
+margin-left: 20px;
+margin-right: 20px;
+}
+
+.bottom_row_style_class {
+margin-bottom: 10px;
+}
+

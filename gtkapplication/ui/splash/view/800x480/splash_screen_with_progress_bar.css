@@ -1,0 +1,26 @@
+#progressbar_window {
+background-color: #d7ffff;
+}
+
+#splash_grid label {
+color: black;
+font-size: 35px;
+}
+
+#main_progressbar text {
+font-size: 20px;
+color: #ff3333;
+}
+
+#main_progressbar progress {
+background-image: none;
+border-width: 0px;
+min-height: 20px;
+background-color: purple;
+}
+
+#main_progressbar trough {
+min-height: 20px;
+margin-top: 5px;
+color: pink;
+}
