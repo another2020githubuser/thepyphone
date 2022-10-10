@@ -21,10 +21,6 @@ I do not like identification required, the consent to tracking and the hardware 
 * Ethernet cable (Wi-Fi works too)
 
 Total hardware cost, roughly $125
-## Try it for Free
-For a limited time, you can try the PyPhone for free.
-Request an account <a href="https://www.thepyphone.com/account-request.html">here</a>. <br />
-No credit card required.
 
 ## Demos of the PyPhone
 Notes <br />
